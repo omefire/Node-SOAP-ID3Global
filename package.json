@@ -9,6 +9,8 @@
   "author": "omefire@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "js-base64": "^2.4.3",
+    "strong-soap": "^1.4.2"
   }
 }
